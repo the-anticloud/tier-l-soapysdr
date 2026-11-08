@@ -1,0 +1,9 @@
+ Upstream Provenance — L_SOAPYSDR
+
+Company: Anticloud FZ LLE
+
+All upstream code is MIT or Apache 2.0 licensed.
+Anticloud additions are under Anticommons 0.1.0.
+
+No GPL/AGPL contamination in dependency tree.
+All dependencies pinned to audited versions.

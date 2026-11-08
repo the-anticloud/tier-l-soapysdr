@@ -1,0 +1,27 @@
+[
+  {
+    "type": "AIOSS_LEDGER",
+    "file": "aioss_integration.py",
+    "status": "ADDED"
+  },
+  {
+    "type": "K5_HASH",
+    "file": "k5_hasher.py",
+    "status": "ADDED"
+  },
+  {
+    "type": "OFFLINE_MODE",
+    "file": "offline_config.json",
+    "status": "ADDED"
+  },
+  {
+    "type": "NO_TELEMETRY",
+    "patch": "telemetry_disable",
+    "status": "APPLIED"
+  },
+  {
+    "type": "SINGLE_BINARY",
+    "target": "dist/{name}_anticloud",
+    "status": "PLANNED"
+  }
+]

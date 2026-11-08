@@ -1,0 +1,3 @@
+ Architecture — L_SOAPYSDR
+
+See upstream documentation at https://github.com/pothosware/SoapySDR

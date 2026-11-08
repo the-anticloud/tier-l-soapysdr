@@ -1,0 +1,10 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "L_SOAPYSDR",
+  "run_timestamp": "2026-09-30T18:11:11.493145+00:00",
+  "isolation": "STATIC_ANALYSIS",
+  "results": {
+    "radon_cc_grade": "B",
+    "radon_cc_score": 6.0
+  }
+}

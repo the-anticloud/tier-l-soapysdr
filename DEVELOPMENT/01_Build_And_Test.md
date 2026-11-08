@@ -1,0 +1,8 @@
+# Build & Test — L_SOAPYSDR
+
+```bash
+git clone https://github.com/pothosware/SoapySDR
+cd l-soapysdr
+pip install -e .[dev]
+pytest tests/
+```

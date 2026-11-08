@@ -1,0 +1,13 @@
+{
+  "benchmark": "SOC2_Lab_Results",
+  "project": "L_SOAPYSDR",
+  "run_timestamp": "2026-09-30T18:11:11.493145+00:00",
+  "isolation": "STATIC_ANALYSIS",
+  "results": {
+    "framework": "SOC 2 Type II (AICPA TSC 2026)",
+    "source": "https://soc2auditors.org/insights/soc-2-for-ai-companies/",
+    "criteria_passed": 4,
+    "criteria_total": 5,
+    "pass_rate": 0.8
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:195d5291-a764-542f-9993-120c4b5ad439",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-14T06:13:36Z",
+    "component": {
+      "type": "application",
+      "name": "L_SOAPYSDR",
+      "version": "1551ea0d39ce",
+      "bom-ref": "pkg:generic/anticloud/L_SOAPYSDR@1551ea0d39ce",
+      "purl": "pkg:generic/anticloud/L_SOAPYSDR@1551ea0d39ce",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "1551ea0d39ce546b32a15808b9b1241018a89fc8"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/pothosware/SoapySDR"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "SoapySDR",
+      "version": "unspecified",
+      "purl": "pkg:generic/SoapySDR",
+      "bom-ref": "native/SoapySDR@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "SWIG",
+      "version": "unspecified",
+      "purl": "pkg:generic/SWIG",
+      "bom-ref": "native/SWIG@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "Python2",
+      "version": "unspecified",
+      "purl": "pkg:generic/Python2",
+      "bom-ref": "native/Python2@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "Python3",
+      "version": "unspecified",
+      "purl": "pkg:generic/Python3",
+      "bom-ref": "native/Python3@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "Doxygen",
+      "version": "unspecified",
+      "purl": "pkg:generic/Doxygen",
+      "bom-ref": "native/Doxygen@unspecified"
+    },
+    {
+      "type": "library",
+      "name": "LuaJIT",
+      "version": "unspecified",
+      "purl": "pkg:generic/LuaJIT",
+      "bom-ref": "native/LuaJIT@unspecified"
+    }
+  ]
+}

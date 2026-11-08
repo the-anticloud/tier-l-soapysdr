@@ -1,0 +1,14 @@
+# Technical Architecture — L_SOAPYSDR
+
+**Company:** Anticloud FZ LLE | **Model:** PAX L5 Narrow L2 General 27B
+
+## Overview
+
+Single-binary deployment with embedded PAX L5 Narrow L2 General 27B inference.
+
+## Stack
+
+- Runtime: Python + llama.cpp
+- AI: PAX L5 Narrow L2 General 27B (GGUF Q4_0)
+- Security: AES-256, AIOSS ledger
+- Deployment: Single executable
