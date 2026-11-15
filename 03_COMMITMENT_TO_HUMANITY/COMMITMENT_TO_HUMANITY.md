@@ -30,6 +30,6 @@ Anticloud's System of Things (SoT) architecture — which `L_SOAPYSDR` participa
 
 ## Commitments to Future Generations
 
-The KANTOR K5 post-quantum hash scheme (USPTO pending) ensures that audit records created today remain verifiable even against quantum computing attacks decades from now. This project is building infrastructure that will outlast its creators.
+The KANTOR K5 post-quantum hash scheme (prior art documented; USPTO provisional drafting in progress) ensures that audit records created today remain verifiable even against quantum computing attacks decades from now. This project is building infrastructure that will outlast its creators.
 
 **Contact:** lois@0-1.gg · 0-1.gg

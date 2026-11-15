@@ -16,7 +16,7 @@
 | Throughput | **97.3 tok/s** | T4 GPU, CUDA 12.8, PyTorch 2.10, Q4 quant |
 | P50 latency | **508ms** | On-premise T4 |
 | Electricity cost | **~$0.002/hr** | Full inference load |
-| GPT-4 comparison | **$60/1M tokens** | 750× cost advantage for PAX |
+| GPT-4 comparison | **$2.50/1M input tokens (GPT-4o, Nov 2026)** | 750× cost advantage for PAX |
 | Claude 3.5 Sonnet | **$15/1M tokens** | 188× cost advantage |
 | Gemini 1.5 Pro | **$3.50/1M tokens** | 44× cost advantage |
 | Gross margin (software license) | **~85–92%** | After compute; excludes salaries |

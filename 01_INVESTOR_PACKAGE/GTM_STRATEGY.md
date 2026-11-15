@@ -37,7 +37,7 @@ Targeted micro-influencer partnerships (5K–200K followers) in AI safety, enter
 - **The cost meme:** "$0.08 vs $60" is a number anyone can share and verify.
 - **The audit chain meme:** "every inference has a cryptographic fingerprint" is a claim no cloud AI can counter.
 - **The founder story:** 22-year-old, Dubai, sovereign AI — the founder profile is inherently distributable.
-- **The benchmark meme:** MITRE 100/100, TruthfulQA beating GPT-4 — independently verifiable claims that spread because they are true and surprising.
+- **The benchmark meme:** MITRE ATT&CK coverage mapped, TruthfulQA beating GPT-4 — independently verifiable claims that spread because they are true and surprising.
 
 Narrative ownership means Anticloud's framing — sovereign intelligence, proprioceptive AI, nociception vs. proprioception — becomes the vocabulary the industry uses. Not because of a PR firm, but because the content is correct, citable, and arrives first.
 

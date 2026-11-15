@@ -48,7 +48,7 @@ For enterprise deployments of `L_SOAPYSDR`:
 Anticloud FZ LLE can provide insurers with:
 - AIOSS chain verification report (independent of Anticloud)
 - KANTOR K5 hash attestation
-- MITRE 100/100 and NIST 88% benchmark reports
+- MITRE ATT&CK coverage mapped and NIST 88% benchmark reports
 - Compliance control mapping (GDPR, HIPAA, FedRAMP, SOC 2)
 - Harvard Dataverse DOI for independently archived specifications
 

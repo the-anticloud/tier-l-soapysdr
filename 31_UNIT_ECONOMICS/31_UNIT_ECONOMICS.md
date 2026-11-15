@@ -10,7 +10,7 @@
 |---|---|---|
 | Cost per 1M tokens (infrastructure) | **$0.08** | T4 GPU @ $0.40/hr, 5M tok/hr throughput |
 | Cost per 1M tokens (GPT-4) | $60.00 | OpenAI published pricing |
-| **Cost advantage** | **750x cheaper** | Same or better benchmark performance |
+| **Cost advantage** | **~31x cheaper** | Same or better benchmark performance |
 | Gross margin (Enterprise license) | **94%** | $185K ARR / ~$11K infra cost |
 | LTV (Enterprise, 3yr) | $555,000 | $185K x 3yr avg retention |
 | CAC (Enterprise) | $24,000 | 3 mo SDR + 1 mo AE at blended cost |

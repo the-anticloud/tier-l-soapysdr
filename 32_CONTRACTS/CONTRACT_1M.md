@@ -139,4 +139,4 @@ UAE law (DIFC Courts for international disputes), or as mutually agreed.
 *To execute: email signed copy to sales@0-1.gg*
 *Questions: lois@0-1.gg*
 *Anticloud FZ LLE · UAE Free Zone Limited Liability Establishment*
-*Patent Pending (USPTO) · Harvard Dataverse DOI 10.7910/DVN/YMJKOG*
+*Prior art documented (USPTO provisional drafting in progress) · Harvard Dataverse DOI 10.7910/DVN/YMJKOG*

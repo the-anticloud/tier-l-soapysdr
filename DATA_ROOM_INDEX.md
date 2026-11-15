@@ -103,5 +103,5 @@ Navigate to each subfolder for the relevant materials.
 ---
 
 *Anticloud FZ LLE · Dubai UAE · 0-1.gg · October 2026*
-*PAX L5 Narrow L2 General 27B · Patent Pending (USPTO)*
+*PAX L5 Narrow L2 General 27B · Prior art documented (USPTO provisional drafting in progress)*
 *Apache 2.0 / Anticommons Enterprise License 1.0*

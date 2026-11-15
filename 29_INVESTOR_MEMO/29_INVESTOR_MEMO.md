@@ -15,7 +15,7 @@ Anticloud FZ LLE builds sovereign AI infrastructure that enterprises and governm
 
 ## The Problem
 
-The $28B regulated AI market cannot use cloud AI. HIPAA prohibits routing patient data through external APIs. FedRAMP requires air-gap capability. PCI-DSS 4.0 mandates cryptographic audit chains. UAE data residency law forbids cloud endpoints for government workloads. GPT-4 costs $60/1M tokens, provides zero cryptographic proof, and is architecturally illegal for regulated use. No frontier lab has solved this — their business model requires cloud routing.
+The $28B regulated AI market cannot use cloud AI. HIPAA prohibits routing patient data through external APIs. FedRAMP requires air-gap capability. PCI-DSS 4.0 mandates cryptographic audit chains. UAE data residency law forbids cloud endpoints for government workloads. GPT-4 costs $2.50/1M input tokens (GPT-4o, Nov 2026), provides zero cryptographic proof, and is architecturally illegal for regulated use. No frontier lab has solved this — their business model requires cloud routing.
 
 ---
 
@@ -23,9 +23,9 @@ The $28B regulated AI market cannot use cloud AI. HIPAA prohibits routing patien
 
 | Metric | PAX L5/L2 27B | GPT-4 | Advantage |
 |---|---|---|---|
-| Cost / 1M tokens | **$0.08** | $60 | **750×** |
+| Cost / 1M tokens | **$0.08** | $2.50 | **~31×** |
 | TruthfulQA | **61.86%** | 59% | +2.86pp |
-| MITRE ATT&CK | **100/100** | Not published | Only published score |
+| MITRE ATT&CK | coverage mapped | Evidence register | Technique mapping |
 | Air-gap | **✓ Full** | ✗ | Compliance-enabling |
 | Audit chain | **✓ SHA3-256** | ✗ | HIPAA/FedRAMP required |
 | Hardware req. | **T4 16GB** | H100 cluster | Commodity |
@@ -53,7 +53,7 @@ The $28B regulated AI market cannot use cloud AI. HIPAA prohibits routing patien
 
 | Competitor | Price | Air-gap | Audit chain |
 |---|---|---|---|
-| GPT-4 | $60/1M | ✗ | ✗ |
+| GPT-4o | $2.50/1M input (Nov 2026) | ✗ | ✗ |
 | Claude | $15/1M | ✗ | ✗ |
 | Llama 3 70B (self-hosted) | ~$0.40/1M | ✓ | ✗ |
 | **PAX L5/L2 27B** | **$0.08/1M** | **✓** | **✓ SHA3-256** |
@@ -70,7 +70,7 @@ The $28B regulated AI market cannot use cloud AI. HIPAA prohibits routing patien
 | Government | $850,000 |
 | Strategic / OEM | $5,000,000 |
 
-**Unit economics:** Infrastructure $0.08/1M tokens. Enterprise license at 1B tokens/yr = ~2,300× gross margin. CAC est. $24K. LTV/CAC: 7.7× at Enterprise tier.
+**Unit economics:** Infrastructure $0.08/1M tokens. Enterprise license at 1B tokens/yr = ~2,300× gross margin. CAC est. $24K. LTV/CAC: 23× at Enterprise tier ($555,000/$24,000).
 
 ---
 

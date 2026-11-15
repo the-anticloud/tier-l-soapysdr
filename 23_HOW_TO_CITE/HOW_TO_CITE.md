@@ -65,7 +65,7 @@ When citing `L_SOAPYSDR` in academic work, please include:
 
 If citing benchmark numbers from this project:
 
-- TruthfulQA 61.86%, MMLU 69.78%, MITRE 100/100, NIST 88% — all independently verified 2026-Q3
+- TruthfulQA 61.86%, MMLU 69.78%, MITRE ATT&CK coverage mapped, NIST 88% — all independently verified 2026-Q3
 - Reproducible Kaggle notebook available on request
 - Evaluation chain hash: `8b4a8a4f6312dfbe885de8280716985637c163fd2a4b5590341d56db1cc4e560`
 

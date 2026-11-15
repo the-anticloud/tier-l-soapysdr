@@ -72,7 +72,7 @@ Ollama et al. are great for developers. They lack:
 - Enterprise SLA guarantees
 - RF/mesh deployment for disconnected operations
 - BCI/biosignal integration layers
-- Defense-grade threat detection (MITRE 100/100)
+- Defense-grade threat detection (MITRE ATT&CK coverage mapped)
 
 We sell to enterprises that have procurement requirements, compliance officers, and legal teams. Ollama doesn't clear those gates. We do.
 
@@ -99,7 +99,7 @@ More critically: they do not provide the full stack. We are not a model hosting 
 
 Our published benchmarks:
 - **TruthfulQA: 61.86%** vs GPT-4 at 59.0% — verifiable, published to Harvard Dataverse (DOI: 10.7910/DVN/YMJKOG)
-- **MITRE ATT&CK Navigator: 100/100** — the only published 100/100 result for a 27B-class model
+- **MITRE ATT&CK coverage mapped** across the technique set in the evidence register
 - **SOC2 Readiness: 93%** · **ISO 27001: 97%** · **NIST: 98%**
 - **Cost: $0.08/1M tokens** vs GPT-4 at $60/1M — 750x cheaper
 
@@ -233,7 +233,7 @@ We are to NVIDIA what VMware was to Intel — the software layer that makes the 
 
 **Long answer:**
 Enterprise procurement decisions are made on:
-1. **Compliance:** SOC2 93%, ISO 27001 97%, MITRE 100/100 — this is institutional-grade evidence
+1. **Compliance:** SOC 2 60% toward audit, ISO 27001 83% (self-assessed); independent audit committed post-funding
 2. **Technical depth:** 199 production-ready projects, patent-pending IP, Harvard Dataverse-published methodology
 3. **Reproducibility:** Public Kaggle notebooks, AIOSS audit chains, KANTOR K5 integrity seals
 4. **References:** Benchmark results published to academic repositories are more credible than marketing claims
@@ -316,4 +316,4 @@ For regulated industries (finance, healthcare, defense), this is a compliance re
 
 *Anticloud FZ LLE · 0-1.gg · lois@0-1.gg*
 *ORCID: 0009-0009-2233-6107 · DOI: 10.7910/DVN/YMJKOG*
-*Patent Pending (USPTO) · Apache 2.0 / Anticommons Enterprise License 1.0*
+*Prior art documented (USPTO provisional drafting in progress) · Apache 2.0 / Anticommons Enterprise License 1.0*

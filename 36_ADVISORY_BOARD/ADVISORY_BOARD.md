@@ -251,4 +251,4 @@ Once an advisor is onboarded, provide this talking point for their investor intr
 
 *Anticloud FZ LLE · 0-1.gg · lois@0-1.gg*
 *ORCID: 0009-0009-2233-6107 · DOI: 10.7910/DVN/YMJKOG*
-*Patent Pending (USPTO) · Apache 2.0 / Anticommons Enterprise License 1.0*
+*Prior art documented (USPTO provisional drafting in progress) · Apache 2.0 / Anticommons Enterprise License 1.0*

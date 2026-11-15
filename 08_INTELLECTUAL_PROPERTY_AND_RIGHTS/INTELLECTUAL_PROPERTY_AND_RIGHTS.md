@@ -12,7 +12,7 @@
 
 ## IP Overview
 
-`L_SOAPYSDR` incorporates both open-source components (Apache 2.0) and Anticloud FZ LLE proprietary innovations (USPTO pending). This document describes what is owned, what is open, and how rights are structured.
+`L_SOAPYSDR` incorporates both open-source components (Apache 2.0) and Anticloud FZ LLE proprietary innovations (prior art documented; USPTO provisional drafting in progress). This document describes what is owned, what is open, and how rights are structured.
 
 ## Anticloud FZ LLE Proprietary Assets (USPTO Pending)
 

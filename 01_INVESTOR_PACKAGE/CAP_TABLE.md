@@ -55,7 +55,7 @@
 | Together AI (2023) | ~$100M | GPU cloud for AI |
 | **PAX (proposed)** | **$12.5M** | Conservative; hardware-sovereign AI |
 
-**Justification:** $12.5M pre-money is conservative vs. category comparables. Benchmarks exceed GPT-4 on TruthfulQA at 750x lower cost. Single founder with 50 published articles, Harvard Dataverse DOI 10.7910/DVN/YMJKOG, MITRE ATT&CK 100/100.
+**Justification:** $12.5M pre-money is conservative vs. category comparables. Benchmarks exceed GPT-4 on TruthfulQA at ~31x lower cost. Single founder with 50 published articles, Harvard Dataverse DOI 10.7910/DVN/YMJKOG, MITRE ATT&CK 100/100.
 
 ---
 
@@ -68,4 +68,4 @@
 ---
 
 *Anticloud FZ LLE · 0-1.gg · lois@0-1.gg · October 2026*
-*Patent Pending (USPTO) · Harvard Dataverse DOI 10.7910/DVN/YMJKOG*
+*Prior art documented (USPTO provisional drafting in progress) · Harvard Dataverse DOI 10.7910/DVN/YMJKOG*

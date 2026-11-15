@@ -98,7 +98,7 @@ Cross-platform researcher identifier linking all 50+ publications across every i
 
 - Designed and implemented the quantization pipeline
 - Achieved 61.86% TruthfulQA (vs GPT-4: 59.0%) — +2.86 percentage points
-- Achieved 100/100 MITRE ATT&CK Navigator score — only published 100/100 result for 27B parameter class
+- MITRE ATT&CK coverage mapped across the technique set in the evidence register
 - Implemented GPTQ-8bit single-binary deployment with no cloud dependency
 - Deployed with enable_thinking=True (Qwen3 architecture cognitive chain)
 
@@ -118,13 +118,13 @@ Cross-platform researcher identifier linking all 50+ publications across every i
 
 - 9 technology tiers spanning AI infrastructure, biosignals, RF/mesh, robotics, defense
 - All projects at TRL 8-9 (production-ready)
-- Full compliance: SOC2 93%, ISO 27001 97%, NIST 98%, MITRE 100/100
+- Self-assessed progress: SOC 2 60% toward audit, ISO 27001 83%, NIST AI RMF in progress; independent audit committed post-funding
 
 ---
 
 ## Legal & IP
 
-- **Patent Status:** Patent Pending (USPTO) — applications filed under Anticloud FZ LLE
+- **Patent Status:** Prior art established and documented in this package; USPTO provisional drafting in progress - no application number yet
 - **IP Owner:** 100% Anticloud FZ LLE
 - **Entity type:** UAE Free Zone Limited Liability Establishment
 - **License:** Apache 2.0 (open) / Anticommons Enterprise License 1.0 (commercial)
@@ -157,4 +157,4 @@ This founder ships. The 199 projects are not a pitch deck — they are working s
 
 *Anticloud FZ LLE · 0-1.gg · lois@0-1.gg*
 *ORCID: 0009-0009-2233-6107 · DOI: 10.7910/DVN/YMJKOG*
-*Patent Pending (USPTO) · Apache 2.0 / Anticommons Enterprise License 1.0*
+*Prior art documented (USPTO provisional drafting in progress) · Apache 2.0 / Anticommons Enterprise License 1.0*

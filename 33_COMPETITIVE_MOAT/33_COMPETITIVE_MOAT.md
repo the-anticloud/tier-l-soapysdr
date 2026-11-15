@@ -27,7 +27,7 @@ The regulated AI market is not a choice — it is a mandate:
 ### 2. Hardware Democratization (The $0.08 Moment)
 
 The T4 GPU is available for $0.40/hr. PAX runs at ~5M tokens/hr on a single T4.
-That is **$0.08/1M tokens** — 750x cheaper than GPT-4 ($60/1M).
+That is **$0.08/1M tokens** — ~31x cheaper than GPT-4o input ($2.50/1M, Nov 2026).
 
 This was not possible 24 months ago. Quantization (Q4/Q8), speculative decoding, and Flash Attention 2 together make 27B-class models run on T4 hardware with L2-level benchmark performance. The capability window and the hardware accessibility window opened simultaneously in 2025-2026.
 
@@ -71,7 +71,7 @@ This corpus is **prior art** for any competitor trying to patent similar approac
 
 ### Moat 3: Benchmark Superiority at Impossible Unit Economics
 
-GPT-4 costs $60/1M tokens. PAX costs $0.08/1M tokens. Same or better benchmarks.
+GPT-4 costs $2.50/1M input tokens (GPT-4o, Nov 2026). PAX costs $0.08/1M tokens. Same or better benchmarks.
 The only way a competitor matches this is:
 - Use the same Q4-quantized 27B architecture (which we are first to benchmark publicly at this price)
 - Build the same compliance stack (AIOSS, KANTOR, MITRE) — 12-18 months of engineering
@@ -139,4 +139,4 @@ GCC government AI procurement is **not available to US cloud companies** under n
 ---
 
 *Anticloud FZ LLE · 0-1.gg · lois@0-1.gg · October 2026*
-*PAX L5 Narrow L2 General 27B · Patent Pending (USPTO)*
+*PAX L5 Narrow L2 General 27B · Prior art documented (USPTO provisional drafting in progress)*

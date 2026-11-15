@@ -80,7 +80,7 @@ Reproducible Kaggle notebook available. Harvard Dataverse DOI: 10.7910/DVN/YMJKO
 
 ## 5. Compliance
 
-GDPR, HIPAA, FedRAMP Moderate, PCI-DSS 4.0, SOC 2 Type II, EU AI Act — all framework controls mapped and independently verified. Full mappings in `09_COMPLIANCE/COMPLIANCE.md`.
+GDPR, HIPAA, FedRAMP Moderate, PCI-DSS 4.0, SOC 2 Type II, EU AI Act — all framework controls mapped and independently in progress. Full mappings in `09_COMPLIANCE/COMPLIANCE.md`.
 
 ## 6. Conclusion
 
